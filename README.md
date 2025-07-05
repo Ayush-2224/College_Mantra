@@ -75,7 +75,7 @@ College Mantra is a sophisticated college admission management system that autom
 
 ### College Seat Matrix
 ![College Seat Matrix](readme_photo/file_2025-07-03_11.53.29.png)
-*College interface showing the seat matrix management where colleges can view eat availability across different categories and courses.*
+*College interface showing the seat matrix management where colleges can view seat availability across different categories and courses.*
 
 ### Allocation Result
 ![Allocation Result](readme_photo/file_2025-07-03_11.11.50.png)
