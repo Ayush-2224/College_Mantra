@@ -19,7 +19,6 @@ College Mantra is a sophisticated college admission management system that autom
 ### Key Highlights:
 - **Automated Seat Allocation**: Implements a merit-based allocation algorithm
 - **Multi-User Support**: Separate interfaces for candidates, colleges, and administrators
-- **Payment Integration**: Seamless payment processing with Razorpay
 - **Real-time Updates**: Dynamic seat matrix and allocation status
 - **Category-based Reservations**: Supports all major reservation categories (General, OBC, SC, ST, PwD)
 
