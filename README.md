@@ -9,13 +9,8 @@ A comprehensive Django-based web application designed to streamline the college 
 - [Overview](#overview)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Architecture](#architecture)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## 🎯 Overview
 
